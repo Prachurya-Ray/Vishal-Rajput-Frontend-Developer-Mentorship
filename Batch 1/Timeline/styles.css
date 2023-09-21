@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+#box {
+  padding: 25px;
+  background-color: #eceff1;
+  background-color: #cfd8dc;
+}
+
+ol {
+  background-color: #cfd8dc;
+  background-color: #b0bec5;
+  padding: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  line-height: 1.5;
+  margin-right: 50%;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+}
