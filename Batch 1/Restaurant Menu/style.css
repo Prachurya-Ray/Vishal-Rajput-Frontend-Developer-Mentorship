@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  margin: 25px;
+}
+
+#box {
+  padding: 25px;
+  background-color: #fdedec;
+}
+
+h1,
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+}
+
+li {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.branch {
+  background-color: #fadbd8;
+  margin-right: 50%;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  padding-top: 1px;
+  margin-top: 25px;
+}
+
+h2 {
+  background-color: #f5b7b1;
+  padding-left: 30px;
+  margin-right: 20%;
+  margin-top: -15px;
+}
