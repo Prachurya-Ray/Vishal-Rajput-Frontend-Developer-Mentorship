@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+}
+
+#box {
+  background-image: linear-gradient(to bottom left, #48c9b0 30%, blue);
+  margin: 10px;
+  padding: 25px;
+}
+
+#branch {
+  margin-right: 25%;
+  margin-left: 25%;
+  background-color: white;
+  padding: 45px;
+  border-radius: 25px;
+}
+
+h1 {
+  color: aqua;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+input {
+  border-color: aqua;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+}
+
+form {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#submit {
+  background-image: linear-gradient(to bottom left, #48c9b0 30%, blue);
+  color: white;
+  border-style: none;
+  min-width: 250px;
+  min-height: 50px;
+  font-weight: bolder;
+  margin-left: 25%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#submit:hover {
+  background-image: linear-gradient(#ebf5fb, #ebf5fb);
+  color: black;
+  border-style: solid;
+  border-color: #1abc9c;
+  transition: 0.7s;
+}
