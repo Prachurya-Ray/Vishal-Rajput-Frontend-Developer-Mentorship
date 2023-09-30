@@ -1,3 +1,8 @@
 # Vishal-Rajput-Frontend-Developer-Mentorship
 
-## Learning by Projects
+## Learning by doing Projects
+
+- HTML5
+- CSS
+- JS
+- React
